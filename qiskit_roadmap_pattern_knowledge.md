@@ -61,7 +61,7 @@ As the field moves from bespoke circuit construction to utility-scale workflows,
 # Quantum roadmap
 
 The future of computing is quantum-centric.
-## 2023
+## Year 2023
 
 - Introduce parallelization of quantum computations.
 - Strategy overview
@@ -75,7 +75,7 @@ The future of computing is quantum-centric.
     - Expanded classical resources in Qiskit Runtime will speed up compilation and maximize the utilization of the QPUs.
 - How these advancements will be delivered to IBM clients and partners
     - Multiple 100+ qubit Eagle processors will be connected using classical communication. Ahead-of-time compilation will increase utilization of the QPUs.
-## 2024
+## Year 2024
 
 - Expand the utility of quantum computing.
 - Strategy overview
@@ -89,20 +89,20 @@ The future of computing is quantum-centric.
 
 - How these advancements will be delivered to IBM clients and partners
     - Multiple higher-quality 100+ qubit Heron processors will be connected using classical communication.
-## 2025
+## Year 2025
 
 - Demonstrate quantum centric supercomputing.
 - Strategy overview
-    - In 2025, we will enhance the quality of quantum circuits to allow running 7,500 gates and bring together modular processors, middleware, and quantum communication to demonstrate the first quantumcentric supercomputer.
+    - In 2025, we will enhance the quality of quantum circuits to allow running 7,500 gates and bring together modular processors, middleware, and quantum communication to demonstrate the first quantum centric supercomputer.
 
 - Why this matters to our clients and the world
     - Abstraction will move from quantum circuits to quantum functions leveraging the Qiskit patterns. This will make quantum computing more usable and will be the start of domain libraries.
 - The technology or innovations that will make this possible
-    - A quantum node will be part of a network incorporating classical and quantum communication. Resource management will handle quantum and classical workflows. Qiskit will provide libraries of quantum functions and higherlevel APIs for faster algorithm and application development. 
+    - A quantum node will be part of a network incorporating classical and quantum communication. Resource management will handle quantum and classical workflows. Qiskit will provide libraries of quantum functions and higher level APIs for faster algorithm and application development. 
 
 - How these advancements will be delivered to IBM clients and partners
-    - Pre-built Qiskit functions and optimized libraries will be available. A 1,000+ qubit Flamingo system will be demonstrated, made from multiple processors, with each processor made from multiple chips.
-## 2027
+    - Pre-built Qiskit functions and optimized libraries will be available. A 1,000+ qubit Flamingo system will be demonstrated, made from multiple processors, with each processor made from multiple chips.
+## Year 2027
 
 - Scale quantum computing.
 - Strategy overview
@@ -115,7 +115,7 @@ The future of computing is quantum-centric.
 
 - How these advancements will be delivered to IBM clients and partners
     - The performance of our Flamingo systems will improve to allow users to run circuits with up to 10,000 gates and 1,000+ qubit.
-## 2029
+## Year 2029
 
 - Deliver a fully error corrected system.
 - Strategy overview
@@ -128,7 +128,7 @@ The future of computing is quantum-centric.
 
 - How these advancements will be delivered to IBM clients and partners
     - The Starling system will be available to clients. It will be a modular, error corrected quantum-centric supercomputer with 200 qubits capable of running a total of 100 million gates.
-## 2030+
+## Year 2030+
 
 - Deliver quantum-centric supercomputers with 1,000’s of logical qubits.
 - Strategy overview
